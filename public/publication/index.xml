@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Hanno Reuvers</title>
+    <link>https://HannoReuvers.github.io/publication/</link>
+      <atom:link href="https://HannoReuvers.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:02:00 +0200</lastBuildDate>
+    <image>
+      <url>https://HannoReuvers.github.io/img/icon-192.png</url>
+      <title>Publications</title>
+      <link>https://HannoReuvers.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Sparse Generalized Yule–Walker Estimation for Spatio-temporal Models</title>
+      <link>https://HannoReuvers.github.io/publication/teun-paper/</link>
+      <pubDate>Tue, 01 Sep 2020 00:02:00 +0200</pubDate>
+      <guid>https://HannoReuvers.github.io/publication/teun-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cointegrating Polynomial Regressions with Power Law Trends: A New Angle on the Environmental Kuznets Curve</title>
+      <link>https://HannoReuvers.github.io/publication/flexible-trend/</link>
+      <pubDate>Sat, 01 Aug 2020 00:02:00 +0200</pubDate>
+      <guid>https://HannoReuvers.github.io/publication/flexible-trend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Estimation by Fully Modified GLS with an Application to the Environmental Kuznets Curve</title>
+      <link>https://HannoReuvers.github.io/publication/ekc-paper/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0200</pubDate>
+      <guid>https://HannoReuvers.github.io/publication/ekc-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Statistical Analysis of Time Trends in Atmospheric Ethane</title>
+      <link>https://HannoReuvers.github.io/publication/liege-paper/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0200</pubDate>
+      <guid>https://HannoReuvers.github.io/publication/liege-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Focused Information Criterion for Locally Misspecified Vector Autoregressive Models</title>
+      <link>https://HannoReuvers.github.io/publication/fic-paper/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0100</pubDate>
+      <guid>https://HannoReuvers.github.io/publication/fic-paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
