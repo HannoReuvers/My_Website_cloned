@@ -1,0 +1,32 @@
+# log-in Hugo from your cmd, following this guide https://stackoverflow.com/questions/46629838/unable-to-change-git-account/46679813#46679813
+
+# erase the "My_Website_cloned" on your computer (if already existing)
+
+# save deploy.sh in the "My_Website" folder on your computer
+
+# create a public repository on github called "My_Website_cloned"
+
+# rename the hannoreuvers.github.io repository on github as HannoReuvers.github.io (must have same name of username)
+
+# in the "My_Website" folder of your computer, in the config.toml file, set baseurl = "https://HannoReuvers.github.io/" 
+
+# in the params.toml file use color_theme = "default" in order to avoid the colour issue
+
+
+(YOU CAN RESTART EVERYTHING FROM HERE!)
+# open the cmd and go to the directory where you saved the "My_Website" folder
+
+
+git clone https://github.com/HannoReuvers/My_Website_cloned.git && cd My_Website_cloned
+
+
+# Copy and paste the content of "My_Website", which was created following this tutorial https://georgecushen.com/create-your-website-with-hugo/ into the folder "My_Website_cloned"
+
+
+git submodule add -f -b master https://github.com/HannoReuvers/HannoReuvers.github.io.git public
+
+
+# ignore fatal: 'origin/master' is not a commit and a branch 'master' cannot be created from it. Unable to checkout submodule 'public'
+
+
+# Locate the file deploy.sh and copy the content into the terminal to finish deploying the site. It takes some time before the online website is updated!
